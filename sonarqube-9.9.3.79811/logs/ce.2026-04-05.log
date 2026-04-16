@@ -1,0 +1,11 @@
+2026.04.05 12:43:39 INFO  ce[][o.s.p.ProcessEntryPoint] Starting Compute Engine
+2026.04.05 12:43:39 INFO  ce[][o.s.ce.app.CeServer] Compute Engine starting up...
+2026.04.05 12:43:39 INFO  ce[][o.sonar.db.Database] Create JDBC data source for jdbc:h2:tcp://127.0.0.1:9092/sonar;NON_KEYWORDS=VALUE
+2026.04.05 12:43:39 INFO  ce[][c.z.h.HikariDataSource] HikariPool-1 - Starting...
+2026.04.05 12:43:40 INFO  ce[][c.z.h.p.HikariPool] HikariPool-1 - Added connection conn0: url=jdbc:h2:tcp://127.0.0.1:9092/sonar user=
+2026.04.05 12:43:40 INFO  ce[][c.z.h.HikariDataSource] HikariPool-1 - Start completed.
+2026.04.05 12:43:40 WARN  ce[][o.s.db.dialect.H2] H2 database should be used for evaluation purpose only.
+2026.04.05 12:43:41 INFO  ce[][o.s.s.p.ServerFileSystemImpl] SonarQube home: /home/asmitha/sonarqube-9.9.3.79811
+2026.04.05 12:43:41 INFO  ce[][o.s.c.c.CePluginRepository] Load plugins
+2026.04.05 12:43:42 INFO  ce[][o.s.c.c.ComputeEngineContainerImpl] Running Community edition
+2026.04.05 12:43:42 INFO  ce[][o.s.ce.app.CeServer] Compute Engine is started

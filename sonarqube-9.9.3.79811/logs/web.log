@@ -1,0 +1,911 @@
+2026.04.06 09:15:05 WARN  web[][c.z.h.p.HikariPool] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m3s47ms170µs229ns).
+2026.04.06 10:35:39 ERROR web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenterDeserializer] ltsVersion seems wrong as it is not listed in SonarQube versions
+2026.04.06 10:35:39 ERROR web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenterDeserializer] authoidc.3.0.0.sqVersions should be defined
+2026.04.06 10:35:39 ERROR web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenterDeserializer] Plugin OpenID Connect Authentication for SonarQube version 3.0.0 should declare compatible SQ versions
+2026.04.06 10:35:39 ERROR web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenterDeserializer] communitybsl.1.18.0.sqVersions should be defined
+2026.04.06 10:35:39 ERROR web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenterDeserializer] Plugin 1C (BSL) Community Plugin version 1.18.0 should declare compatible SQ versions
+2026.04.06 10:35:39 ERROR web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenterDeserializer] creedengojava.2.1.2.sqVersions should be defined
+2026.04.06 10:35:39 ERROR web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenterDeserializer] Plugin creedengo - Java language version 2.1.2 should declare compatible SQ versions
+2026.04.06 10:35:39 ERROR web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenterDeserializer] creedengojavascript.3.0.0.sqVersions should be defined
+2026.04.06 10:35:39 ERROR web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenterDeserializer] Plugin Creedengo JavaScript plugin version 3.0.0 should declare compatible SQ versions
+2026.04.06 10:35:39 ERROR web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenterDeserializer] creedengophp.2.1.0.sqVersions should be defined
+2026.04.06 10:35:39 ERROR web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenterDeserializer] Plugin creedengo - PHP language version 2.1.0 should declare compatible SQ versions
+2026.04.06 10:35:39 ERROR web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenterDeserializer] creedengopython.2.3.0.sqVersions should be defined
+2026.04.06 10:35:39 ERROR web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenterDeserializer] Plugin creedengo - Python language version 2.3.0 should declare compatible SQ versions
+2026.04.06 10:35:39 ERROR web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenterDeserializer] dependencycheck.6.0.0.sqVersions should be defined
+2026.04.06 10:35:39 ERROR web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenterDeserializer] Plugin Dependency-Check version 6.0.0 should declare compatible SQ versions
+2026.04.06 10:35:40 ERROR web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenterDeserializer] findbugs.4.6.0.sqVersions should be defined
+2026.04.06 10:35:40 ERROR web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenterDeserializer] Plugin Findbugs version 4.6.0 should declare compatible SQ versions
+2026.04.06 10:35:40 ERROR web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenterDeserializer] jqassistant.3.0.1.sqVersions should be defined
+2026.04.06 10:35:40 ERROR web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenterDeserializer] Plugin jQAssistant version 3.0.1 should declare compatible SQ versions
+2026.04.06 10:35:40 ERROR web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenterDeserializer] l10nja.25.5.sqVersions should be defined
+2026.04.06 10:35:40 ERROR web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenterDeserializer] Plugin Japanese Pack version 25.5 should declare compatible SQ versions
+2026.04.06 10:35:40 WARN  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenterDeserializer] The plugin l10nja is not compatible with any public SQ versions.
+2026.04.06 10:35:40 ERROR web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenterDeserializer] l10nru.25.1.sqVersions should be defined
+2026.04.06 10:35:40 ERROR web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenterDeserializer] Plugin Russian Pack version 25.1 should declare compatible SQ versions
+2026.04.06 10:35:40 ERROR web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenterDeserializer] l10nru.25.7.sqVersions should be defined
+2026.04.06 10:35:40 ERROR web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenterDeserializer] Plugin Russian Pack version 25.7 should declare compatible SQ versions
+2026.04.06 10:35:40 ERROR web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenterDeserializer] l10nzh.24.12.sqVersions should be defined
+2026.04.06 10:35:40 ERROR web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenterDeserializer] Plugin Chinese Pack version 24.12 should declare compatible SQ versions
+2026.04.06 10:35:40 ERROR web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenterDeserializer] l10nzh.25.1.sqVersions should be defined
+2026.04.06 10:35:40 ERROR web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenterDeserializer] Plugin Chinese Pack version 25.1 should declare compatible SQ versions
+2026.04.06 10:35:40 ERROR web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenterDeserializer] l10nzh.25.2.sqVersions should be defined
+2026.04.06 10:35:40 ERROR web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenterDeserializer] Plugin Chinese Pack version 25.2 should declare compatible SQ versions
+2026.04.06 10:35:40 ERROR web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenterDeserializer] l10nzh.25.3.sqVersions should be defined
+2026.04.06 10:35:40 ERROR web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenterDeserializer] Plugin Chinese Pack version 25.3 should declare compatible SQ versions
+2026.04.06 10:35:40 ERROR web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenterDeserializer] l10nzh.25.4.sqVersions should be defined
+2026.04.06 10:35:40 ERROR web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenterDeserializer] Plugin Chinese Pack version 25.4 should declare compatible SQ versions
+2026.04.06 10:35:40 ERROR web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenterDeserializer] l10nzh.25.5.sqVersions should be defined
+2026.04.06 10:35:40 ERROR web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenterDeserializer] Plugin Chinese Pack version 25.5 should declare compatible SQ versions
+2026.04.06 10:35:40 ERROR web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenterDeserializer] l10nzh.25.6.sqVersions should be defined
+2026.04.06 10:35:40 ERROR web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenterDeserializer] Plugin Chinese Pack version 25.6 should declare compatible SQ versions
+2026.04.06 10:35:40 ERROR web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenterDeserializer] l10nzh.25.7.sqVersions should be defined
+2026.04.06 10:35:40 ERROR web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenterDeserializer] Plugin Chinese Pack version 25.7 should declare compatible SQ versions
+2026.04.06 10:35:40 ERROR web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenterDeserializer] l10nzh.25.8.sqVersions should be defined
+2026.04.06 10:35:40 ERROR web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenterDeserializer] Plugin Chinese Pack version 25.8 should declare compatible SQ versions
+2026.04.06 10:35:40 ERROR web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenterDeserializer] l10nzh.25.9.sqVersions should be defined
+2026.04.06 10:35:40 ERROR web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenterDeserializer] Plugin Chinese Pack version 25.9 should declare compatible SQ versions
+2026.04.06 10:35:40 ERROR web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenterDeserializer] l10nzh.25.10.sqVersions should be defined
+2026.04.06 10:35:40 ERROR web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenterDeserializer] Plugin Chinese Pack version 25.10 should declare compatible SQ versions
+2026.04.06 10:35:40 ERROR web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenterDeserializer] l10nzh.25.11.sqVersions should be defined
+2026.04.06 10:35:40 ERROR web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenterDeserializer] Plugin Chinese Pack version 25.11 should declare compatible SQ versions
+2026.04.06 10:35:40 ERROR web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenterDeserializer] l10nzh.25.12.sqVersions should be defined
+2026.04.06 10:35:40 ERROR web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenterDeserializer] Plugin Chinese Pack version 25.12 should declare compatible SQ versions
+2026.04.06 10:35:40 ERROR web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenterDeserializer] l10nzh.26.1.sqVersions should be defined
+2026.04.06 10:35:40 ERROR web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenterDeserializer] Plugin Chinese Pack version 26.1 should declare compatible SQ versions
+2026.04.06 10:35:40 ERROR web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenterDeserializer] l10nzh.26.2.sqVersions should be defined
+2026.04.06 10:35:40 ERROR web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenterDeserializer] Plugin Chinese Pack version 26.2 should declare compatible SQ versions
+2026.04.06 10:35:40 ERROR web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenterDeserializer] l10nzh.26.3.sqVersions should be defined
+2026.04.06 10:35:40 ERROR web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenterDeserializer] Plugin Chinese Pack version 26.3 should declare compatible SQ versions
+2026.04.06 10:35:40 ERROR web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenterDeserializer] l10nzhtw.1.2.sqVersions should be defined
+2026.04.06 10:35:40 ERROR web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenterDeserializer] Plugin TraditionalChinese Pack version 1.2 should declare compatible SQ versions
+2026.04.06 10:35:40 ERROR web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenterDeserializer] l10nzhtw.1.3.sqVersions should be defined
+2026.04.06 10:35:40 ERROR web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenterDeserializer] Plugin TraditionalChinese Pack version 1.3 should declare compatible SQ versions
+2026.04.06 10:35:40 ERROR web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenterDeserializer] l10nzhtw.1.4.sqVersions should be defined
+2026.04.06 10:35:40 ERROR web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenterDeserializer] Plugin TraditionalChinese Pack version 1.4 should declare compatible SQ versions
+2026.04.06 10:35:40 ERROR web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenterDeserializer] l10nzhtw.1.5.sqVersions should be defined
+2026.04.06 10:35:40 ERROR web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenterDeserializer] Plugin TraditionalChinese Pack version 1.5 should declare compatible SQ versions
+2026.04.06 10:35:40 ERROR web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenterDeserializer] l10nzhtw.1.6.sqVersions should be defined
+2026.04.06 10:35:40 ERROR web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenterDeserializer] Plugin TraditionalChinese Pack version 1.6 should declare compatible SQ versions
+2026.04.06 10:35:40 ERROR web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenterDeserializer] l10nzhtw.1.7.sqVersions should be defined
+2026.04.06 10:35:40 ERROR web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenterDeserializer] Plugin TraditionalChinese Pack version 1.7 should declare compatible SQ versions
+2026.04.06 10:35:40 ERROR web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenterDeserializer] l10nzhtw.1.8.sqVersions should be defined
+2026.04.06 10:35:40 ERROR web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenterDeserializer] Plugin TraditionalChinese Pack version 1.8 should declare compatible SQ versions
+2026.04.06 10:35:40 ERROR web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenterDeserializer] l10nzhtw.1.9.sqVersions should be defined
+2026.04.06 10:35:40 ERROR web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenterDeserializer] Plugin TraditionalChinese Pack version 1.9 should declare compatible SQ versions
+2026.04.06 10:35:40 ERROR web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenterDeserializer] l10nzhtw.26.2.sqVersions should be defined
+2026.04.06 10:35:40 ERROR web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenterDeserializer] Plugin TraditionalChinese Pack version 26.2 should declare compatible SQ versions
+2026.04.06 10:35:40 ERROR web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenterDeserializer] l10nzhtw.26.3.sqVersions should be defined
+2026.04.06 10:35:40 ERROR web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenterDeserializer] Plugin TraditionalChinese Pack version 26.3 should declare compatible SQ versions
+2026.04.06 10:35:40 ERROR web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenterDeserializer] magento2php.1.3.0.sqVersions should be defined
+2026.04.06 10:35:40 ERROR web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenterDeserializer] Plugin PHP Custom Rules for Magento 2 CMS version 1.3.0 should declare compatible SQ versions
+2026.04.06 10:35:40 WARN  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenterDeserializer] The plugin magento2php is not compatible with any public SQ versions.
+2026.04.06 10:35:40 ERROR web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenterDeserializer] openedge.2.30.0.sqVersions should be defined
+2026.04.06 10:35:40 ERROR web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenterDeserializer] Plugin OpenEdge version 2.30.0 should declare compatible SQ versions
+2026.04.06 10:35:40 ERROR web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenterDeserializer] scmtfvc.2.5.0.sqVersions should be defined
+2026.04.06 10:35:40 ERROR web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenterDeserializer] Plugin TFVC version 2.5.0 should declare compatible SQ versions
+2026.04.06 10:35:40 ERROR web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenterDeserializer] wolfralyze.1.1.4.sqVersions should be defined
+2026.04.06 10:35:40 ERROR web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenterDeserializer] Plugin Mathematica version 1.1.4 should declare compatible SQ versions
+2026.04.06 10:35:40 WARN  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenterDeserializer] The plugin wolfralyze is not compatible with any public SQ versions.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'config' version : 1.2.0.267 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'csharp' version : 8.51.0.59060 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'flex' version : 2.8.0.3166 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'go' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'iac' version : 1.11.0.2847 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'jacoco' version : 1.3.0.1538 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'java' version : 7.16.0.30901 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'javascript' version : 9.13.0.20537 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'kotlin' version : 2.12.0.1956 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'php' version : 3.27.1.9352 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'python' version : 3.24.1.11916 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'ruby' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'sonarscala' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'text' version : 2.0.2.1090 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'vbnet' version : 8.51.0.59060 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'web' version : 3.7.1.3306 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'xml' version : 2.7.0.3820 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'config' version : 1.2.0.267 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'csharp' version : 8.51.0.59060 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'flex' version : 2.8.0.3166 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'go' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'iac' version : 1.11.0.2847 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'jacoco' version : 1.3.0.1538 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'java' version : 7.16.0.30901 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'javascript' version : 9.13.0.20537 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'kotlin' version : 2.12.0.1956 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'php' version : 3.27.1.9352 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'python' version : 3.24.1.11916 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'ruby' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'sonarscala' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'text' version : 2.0.2.1090 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'vbnet' version : 8.51.0.59060 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'web' version : 3.7.1.3306 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'xml' version : 2.7.0.3820 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'config' version : 1.2.0.267 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'csharp' version : 8.51.0.59060 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'flex' version : 2.8.0.3166 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'go' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'iac' version : 1.11.0.2847 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'jacoco' version : 1.3.0.1538 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'java' version : 7.16.0.30901 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'javascript' version : 9.13.0.20537 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'kotlin' version : 2.12.0.1956 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'php' version : 3.27.1.9352 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'python' version : 3.24.1.11916 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'ruby' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'sonarscala' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'text' version : 2.0.2.1090 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'vbnet' version : 8.51.0.59060 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'web' version : 3.7.1.3306 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'xml' version : 2.7.0.3820 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'config' version : 1.2.0.267 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'csharp' version : 8.51.0.59060 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'flex' version : 2.8.0.3166 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'go' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'iac' version : 1.11.0.2847 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'jacoco' version : 1.3.0.1538 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'java' version : 7.16.0.30901 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'javascript' version : 9.13.0.20537 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'kotlin' version : 2.12.0.1956 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'php' version : 3.27.1.9352 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'python' version : 3.24.1.11916 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'ruby' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'sonarscala' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'text' version : 2.0.2.1090 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'vbnet' version : 8.51.0.59060 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'web' version : 3.7.1.3306 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'xml' version : 2.7.0.3820 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'config' version : 1.2.0.267 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'csharp' version : 8.51.0.59060 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'flex' version : 2.8.0.3166 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'go' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'iac' version : 1.11.0.2847 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'jacoco' version : 1.3.0.1538 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'java' version : 7.16.0.30901 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'javascript' version : 9.13.0.20537 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'kotlin' version : 2.12.0.1956 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'php' version : 3.27.1.9352 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'python' version : 3.24.1.11916 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'ruby' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'sonarscala' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'text' version : 2.0.2.1090 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'vbnet' version : 8.51.0.59060 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'web' version : 3.7.1.3306 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'xml' version : 2.7.0.3820 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'config' version : 1.2.0.267 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'csharp' version : 8.51.0.59060 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'flex' version : 2.8.0.3166 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'go' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'iac' version : 1.11.0.2847 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'jacoco' version : 1.3.0.1538 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'java' version : 7.16.0.30901 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'javascript' version : 9.13.0.20537 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'kotlin' version : 2.12.0.1956 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'php' version : 3.27.1.9352 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'python' version : 3.24.1.11916 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'ruby' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'sonarscala' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'text' version : 2.0.2.1090 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'vbnet' version : 8.51.0.59060 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'web' version : 3.7.1.3306 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'xml' version : 2.7.0.3820 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'config' version : 1.2.0.267 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'csharp' version : 8.51.0.59060 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'flex' version : 2.8.0.3166 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'go' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'iac' version : 1.11.0.2847 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'jacoco' version : 1.3.0.1538 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'java' version : 7.16.0.30901 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'javascript' version : 9.13.0.20537 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'kotlin' version : 2.12.0.1956 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'php' version : 3.27.1.9352 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'python' version : 3.24.1.11916 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'ruby' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'sonarscala' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'text' version : 2.0.2.1090 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'vbnet' version : 8.51.0.59060 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'web' version : 3.7.1.3306 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'xml' version : 2.7.0.3820 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'config' version : 1.2.0.267 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'csharp' version : 8.51.0.59060 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'flex' version : 2.8.0.3166 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'go' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'iac' version : 1.11.0.2847 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'jacoco' version : 1.3.0.1538 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'java' version : 7.16.0.30901 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'javascript' version : 9.13.0.20537 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'kotlin' version : 2.12.0.1956 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'php' version : 3.27.1.9352 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'python' version : 3.24.1.11916 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'ruby' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'sonarscala' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'text' version : 2.0.2.1090 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'vbnet' version : 8.51.0.59060 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'web' version : 3.7.1.3306 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'xml' version : 2.7.0.3820 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'config' version : 1.2.0.267 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'csharp' version : 8.51.0.59060 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'flex' version : 2.8.0.3166 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'go' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'iac' version : 1.11.0.2847 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'jacoco' version : 1.3.0.1538 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'java' version : 7.16.0.30901 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'javascript' version : 9.13.0.20537 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'kotlin' version : 2.12.0.1956 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'php' version : 3.27.1.9352 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'python' version : 3.24.1.11916 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'ruby' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'sonarscala' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'text' version : 2.0.2.1090 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'vbnet' version : 8.51.0.59060 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'web' version : 3.7.1.3306 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'xml' version : 2.7.0.3820 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'config' version : 1.2.0.267 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'csharp' version : 8.51.0.59060 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'flex' version : 2.8.0.3166 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'go' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'iac' version : 1.11.0.2847 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'jacoco' version : 1.3.0.1538 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'java' version : 7.16.0.30901 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'javascript' version : 9.13.0.20537 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'kotlin' version : 2.12.0.1956 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'php' version : 3.27.1.9352 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'python' version : 3.24.1.11916 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'ruby' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'sonarscala' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'text' version : 2.0.2.1090 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'vbnet' version : 8.51.0.59060 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'web' version : 3.7.1.3306 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'xml' version : 2.7.0.3820 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'config' version : 1.2.0.267 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'csharp' version : 8.51.0.59060 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'flex' version : 2.8.0.3166 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'go' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'iac' version : 1.11.0.2847 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'jacoco' version : 1.3.0.1538 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'java' version : 7.16.0.30901 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'javascript' version : 9.13.0.20537 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'kotlin' version : 2.12.0.1956 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'php' version : 3.27.1.9352 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'python' version : 3.24.1.11916 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'ruby' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'sonarscala' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'text' version : 2.0.2.1090 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'vbnet' version : 8.51.0.59060 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'web' version : 3.7.1.3306 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'xml' version : 2.7.0.3820 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'config' version : 1.2.0.267 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'csharp' version : 8.51.0.59060 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'flex' version : 2.8.0.3166 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'go' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'iac' version : 1.11.0.2847 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'jacoco' version : 1.3.0.1538 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'java' version : 7.16.0.30901 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'javascript' version : 9.13.0.20537 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'kotlin' version : 2.12.0.1956 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'php' version : 3.27.1.9352 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'python' version : 3.24.1.11916 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'ruby' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'sonarscala' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'text' version : 2.0.2.1090 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'vbnet' version : 8.51.0.59060 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'web' version : 3.7.1.3306 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'xml' version : 2.7.0.3820 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'config' version : 1.2.0.267 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'csharp' version : 8.51.0.59060 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'flex' version : 2.8.0.3166 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'go' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'iac' version : 1.11.0.2847 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'jacoco' version : 1.3.0.1538 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'java' version : 7.16.0.30901 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'javascript' version : 9.13.0.20537 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'kotlin' version : 2.12.0.1956 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'php' version : 3.27.1.9352 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'python' version : 3.24.1.11916 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'ruby' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'sonarscala' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'text' version : 2.0.2.1090 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'vbnet' version : 8.51.0.59060 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'web' version : 3.7.1.3306 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'xml' version : 2.7.0.3820 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'config' version : 1.2.0.267 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'csharp' version : 8.51.0.59060 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'flex' version : 2.8.0.3166 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'go' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'iac' version : 1.11.0.2847 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'jacoco' version : 1.3.0.1538 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'java' version : 7.16.0.30901 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'javascript' version : 9.13.0.20537 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'kotlin' version : 2.12.0.1956 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'php' version : 3.27.1.9352 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'python' version : 3.24.1.11916 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'ruby' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'sonarscala' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'text' version : 2.0.2.1090 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'vbnet' version : 8.51.0.59060 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'web' version : 3.7.1.3306 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'xml' version : 2.7.0.3820 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'config' version : 1.2.0.267 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'csharp' version : 8.51.0.59060 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'flex' version : 2.8.0.3166 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'go' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'iac' version : 1.11.0.2847 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'jacoco' version : 1.3.0.1538 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'java' version : 7.16.0.30901 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'javascript' version : 9.13.0.20537 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'kotlin' version : 2.12.0.1956 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'php' version : 3.27.1.9352 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'python' version : 3.24.1.11916 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'ruby' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'sonarscala' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'text' version : 2.0.2.1090 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'vbnet' version : 8.51.0.59060 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'web' version : 3.7.1.3306 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'xml' version : 2.7.0.3820 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'config' version : 1.2.0.267 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'csharp' version : 8.51.0.59060 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'flex' version : 2.8.0.3166 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'go' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'iac' version : 1.11.0.2847 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'jacoco' version : 1.3.0.1538 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'java' version : 7.16.0.30901 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'javascript' version : 9.13.0.20537 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'kotlin' version : 2.12.0.1956 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'php' version : 3.27.1.9352 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'python' version : 3.24.1.11916 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'ruby' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'sonarscala' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'text' version : 2.0.2.1090 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'vbnet' version : 8.51.0.59060 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'web' version : 3.7.1.3306 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'xml' version : 2.7.0.3820 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'config' version : 1.2.0.267 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'csharp' version : 8.51.0.59060 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'flex' version : 2.8.0.3166 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'go' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'iac' version : 1.11.0.2847 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'jacoco' version : 1.3.0.1538 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'java' version : 7.16.0.30901 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'javascript' version : 9.13.0.20537 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'kotlin' version : 2.12.0.1956 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'php' version : 3.27.1.9352 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'python' version : 3.24.1.11916 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'ruby' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'sonarscala' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'text' version : 2.0.2.1090 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'vbnet' version : 8.51.0.59060 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'web' version : 3.7.1.3306 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'xml' version : 2.7.0.3820 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'config' version : 1.2.0.267 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'csharp' version : 8.51.0.59060 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'flex' version : 2.8.0.3166 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'go' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'iac' version : 1.11.0.2847 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'jacoco' version : 1.3.0.1538 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'java' version : 7.16.0.30901 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'javascript' version : 9.13.0.20537 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'kotlin' version : 2.12.0.1956 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'php' version : 3.27.1.9352 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'python' version : 3.24.1.11916 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'ruby' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'sonarscala' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'text' version : 2.0.2.1090 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'vbnet' version : 8.51.0.59060 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'web' version : 3.7.1.3306 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'xml' version : 2.7.0.3820 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'config' version : 1.2.0.267 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'csharp' version : 8.51.0.59060 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'flex' version : 2.8.0.3166 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'go' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'iac' version : 1.11.0.2847 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'jacoco' version : 1.3.0.1538 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'java' version : 7.16.0.30901 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'javascript' version : 9.13.0.20537 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'kotlin' version : 2.12.0.1956 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'php' version : 3.27.1.9352 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'python' version : 3.24.1.11916 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'ruby' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'sonarscala' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'text' version : 2.0.2.1090 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'vbnet' version : 8.51.0.59060 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'web' version : 3.7.1.3306 has not been found on the update center.
+2026.04.06 10:35:40 INFO  web[AZ1cfXtxpOpcWHUfAAA8][o.s.u.c.UpdateCenter] The plugin 'xml' version : 2.7.0.3820 has not been found on the update center.
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenterDeserializer] ltsVersion seems wrong as it is not listed in SonarQube versions
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenterDeserializer] authoidc.3.0.0.sqVersions should be defined
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenterDeserializer] Plugin OpenID Connect Authentication for SonarQube version 3.0.0 should declare compatible SQ versions
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenterDeserializer] communitybsl.1.18.0.sqVersions should be defined
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenterDeserializer] Plugin 1C (BSL) Community Plugin version 1.18.0 should declare compatible SQ versions
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenterDeserializer] creedengojava.2.1.2.sqVersions should be defined
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenterDeserializer] Plugin creedengo - Java language version 2.1.2 should declare compatible SQ versions
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenterDeserializer] creedengojavascript.3.0.0.sqVersions should be defined
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenterDeserializer] Plugin Creedengo JavaScript plugin version 3.0.0 should declare compatible SQ versions
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenterDeserializer] creedengophp.2.1.0.sqVersions should be defined
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenterDeserializer] Plugin creedengo - PHP language version 2.1.0 should declare compatible SQ versions
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenterDeserializer] creedengopython.2.3.0.sqVersions should be defined
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenterDeserializer] Plugin creedengo - Python language version 2.3.0 should declare compatible SQ versions
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenterDeserializer] dependencycheck.6.0.0.sqVersions should be defined
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenterDeserializer] Plugin Dependency-Check version 6.0.0 should declare compatible SQ versions
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenterDeserializer] findbugs.4.6.0.sqVersions should be defined
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenterDeserializer] Plugin Findbugs version 4.6.0 should declare compatible SQ versions
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenterDeserializer] jqassistant.3.0.1.sqVersions should be defined
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenterDeserializer] Plugin jQAssistant version 3.0.1 should declare compatible SQ versions
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenterDeserializer] l10nja.25.5.sqVersions should be defined
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenterDeserializer] Plugin Japanese Pack version 25.5 should declare compatible SQ versions
+2026.04.06 15:06:18 WARN  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenterDeserializer] The plugin l10nja is not compatible with any public SQ versions.
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenterDeserializer] l10nru.25.1.sqVersions should be defined
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenterDeserializer] Plugin Russian Pack version 25.1 should declare compatible SQ versions
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenterDeserializer] l10nru.25.7.sqVersions should be defined
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenterDeserializer] Plugin Russian Pack version 25.7 should declare compatible SQ versions
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenterDeserializer] l10nzh.24.12.sqVersions should be defined
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenterDeserializer] Plugin Chinese Pack version 24.12 should declare compatible SQ versions
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenterDeserializer] l10nzh.25.1.sqVersions should be defined
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenterDeserializer] Plugin Chinese Pack version 25.1 should declare compatible SQ versions
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenterDeserializer] l10nzh.25.2.sqVersions should be defined
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenterDeserializer] Plugin Chinese Pack version 25.2 should declare compatible SQ versions
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenterDeserializer] l10nzh.25.3.sqVersions should be defined
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenterDeserializer] Plugin Chinese Pack version 25.3 should declare compatible SQ versions
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenterDeserializer] l10nzh.25.4.sqVersions should be defined
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenterDeserializer] Plugin Chinese Pack version 25.4 should declare compatible SQ versions
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenterDeserializer] l10nzh.25.5.sqVersions should be defined
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenterDeserializer] Plugin Chinese Pack version 25.5 should declare compatible SQ versions
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenterDeserializer] l10nzh.25.6.sqVersions should be defined
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenterDeserializer] Plugin Chinese Pack version 25.6 should declare compatible SQ versions
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenterDeserializer] l10nzh.25.7.sqVersions should be defined
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenterDeserializer] Plugin Chinese Pack version 25.7 should declare compatible SQ versions
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenterDeserializer] l10nzh.25.8.sqVersions should be defined
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenterDeserializer] Plugin Chinese Pack version 25.8 should declare compatible SQ versions
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenterDeserializer] l10nzh.25.9.sqVersions should be defined
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenterDeserializer] Plugin Chinese Pack version 25.9 should declare compatible SQ versions
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenterDeserializer] l10nzh.25.10.sqVersions should be defined
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenterDeserializer] Plugin Chinese Pack version 25.10 should declare compatible SQ versions
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenterDeserializer] l10nzh.25.11.sqVersions should be defined
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenterDeserializer] Plugin Chinese Pack version 25.11 should declare compatible SQ versions
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenterDeserializer] l10nzh.25.12.sqVersions should be defined
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenterDeserializer] Plugin Chinese Pack version 25.12 should declare compatible SQ versions
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenterDeserializer] l10nzh.26.1.sqVersions should be defined
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenterDeserializer] Plugin Chinese Pack version 26.1 should declare compatible SQ versions
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenterDeserializer] l10nzh.26.2.sqVersions should be defined
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenterDeserializer] Plugin Chinese Pack version 26.2 should declare compatible SQ versions
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenterDeserializer] l10nzh.26.3.sqVersions should be defined
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenterDeserializer] Plugin Chinese Pack version 26.3 should declare compatible SQ versions
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenterDeserializer] l10nzhtw.1.2.sqVersions should be defined
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenterDeserializer] Plugin TraditionalChinese Pack version 1.2 should declare compatible SQ versions
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenterDeserializer] l10nzhtw.1.3.sqVersions should be defined
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenterDeserializer] Plugin TraditionalChinese Pack version 1.3 should declare compatible SQ versions
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenterDeserializer] l10nzhtw.1.4.sqVersions should be defined
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenterDeserializer] Plugin TraditionalChinese Pack version 1.4 should declare compatible SQ versions
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenterDeserializer] l10nzhtw.1.5.sqVersions should be defined
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenterDeserializer] Plugin TraditionalChinese Pack version 1.5 should declare compatible SQ versions
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenterDeserializer] l10nzhtw.1.6.sqVersions should be defined
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenterDeserializer] Plugin TraditionalChinese Pack version 1.6 should declare compatible SQ versions
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenterDeserializer] l10nzhtw.1.7.sqVersions should be defined
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenterDeserializer] Plugin TraditionalChinese Pack version 1.7 should declare compatible SQ versions
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenterDeserializer] l10nzhtw.1.8.sqVersions should be defined
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenterDeserializer] Plugin TraditionalChinese Pack version 1.8 should declare compatible SQ versions
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenterDeserializer] l10nzhtw.1.9.sqVersions should be defined
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenterDeserializer] Plugin TraditionalChinese Pack version 1.9 should declare compatible SQ versions
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenterDeserializer] l10nzhtw.26.2.sqVersions should be defined
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenterDeserializer] Plugin TraditionalChinese Pack version 26.2 should declare compatible SQ versions
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenterDeserializer] l10nzhtw.26.3.sqVersions should be defined
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenterDeserializer] Plugin TraditionalChinese Pack version 26.3 should declare compatible SQ versions
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenterDeserializer] magento2php.1.3.0.sqVersions should be defined
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenterDeserializer] Plugin PHP Custom Rules for Magento 2 CMS version 1.3.0 should declare compatible SQ versions
+2026.04.06 15:06:18 WARN  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenterDeserializer] The plugin magento2php is not compatible with any public SQ versions.
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenterDeserializer] openedge.2.30.0.sqVersions should be defined
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenterDeserializer] Plugin OpenEdge version 2.30.0 should declare compatible SQ versions
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenterDeserializer] scmtfvc.2.5.0.sqVersions should be defined
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenterDeserializer] Plugin TFVC version 2.5.0 should declare compatible SQ versions
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenterDeserializer] wolfralyze.1.1.4.sqVersions should be defined
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenterDeserializer] Plugin Mathematica version 1.1.4 should declare compatible SQ versions
+2026.04.06 15:06:18 WARN  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenterDeserializer] The plugin wolfralyze is not compatible with any public SQ versions.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'config' version : 1.2.0.267 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'csharp' version : 8.51.0.59060 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'flex' version : 2.8.0.3166 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'go' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'iac' version : 1.11.0.2847 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'jacoco' version : 1.3.0.1538 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'java' version : 7.16.0.30901 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'javascript' version : 9.13.0.20537 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'kotlin' version : 2.12.0.1956 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'php' version : 3.27.1.9352 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'python' version : 3.24.1.11916 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'ruby' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'sonarscala' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'text' version : 2.0.2.1090 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'vbnet' version : 8.51.0.59060 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'web' version : 3.7.1.3306 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'xml' version : 2.7.0.3820 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'config' version : 1.2.0.267 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'csharp' version : 8.51.0.59060 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'flex' version : 2.8.0.3166 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'go' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'iac' version : 1.11.0.2847 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'jacoco' version : 1.3.0.1538 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'java' version : 7.16.0.30901 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'javascript' version : 9.13.0.20537 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'kotlin' version : 2.12.0.1956 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'php' version : 3.27.1.9352 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'python' version : 3.24.1.11916 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'ruby' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'sonarscala' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'text' version : 2.0.2.1090 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'vbnet' version : 8.51.0.59060 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'web' version : 3.7.1.3306 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'xml' version : 2.7.0.3820 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'config' version : 1.2.0.267 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'csharp' version : 8.51.0.59060 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'flex' version : 2.8.0.3166 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'go' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'iac' version : 1.11.0.2847 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'jacoco' version : 1.3.0.1538 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'java' version : 7.16.0.30901 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'javascript' version : 9.13.0.20537 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'kotlin' version : 2.12.0.1956 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'php' version : 3.27.1.9352 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'python' version : 3.24.1.11916 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'ruby' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'sonarscala' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'text' version : 2.0.2.1090 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'vbnet' version : 8.51.0.59060 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'web' version : 3.7.1.3306 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'xml' version : 2.7.0.3820 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'config' version : 1.2.0.267 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'csharp' version : 8.51.0.59060 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'flex' version : 2.8.0.3166 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'go' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'iac' version : 1.11.0.2847 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'jacoco' version : 1.3.0.1538 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'java' version : 7.16.0.30901 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'javascript' version : 9.13.0.20537 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'kotlin' version : 2.12.0.1956 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'php' version : 3.27.1.9352 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'python' version : 3.24.1.11916 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'ruby' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'sonarscala' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'text' version : 2.0.2.1090 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'vbnet' version : 8.51.0.59060 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'web' version : 3.7.1.3306 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'xml' version : 2.7.0.3820 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'config' version : 1.2.0.267 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'csharp' version : 8.51.0.59060 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'flex' version : 2.8.0.3166 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'go' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'iac' version : 1.11.0.2847 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'jacoco' version : 1.3.0.1538 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'java' version : 7.16.0.30901 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'javascript' version : 9.13.0.20537 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'kotlin' version : 2.12.0.1956 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'php' version : 3.27.1.9352 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'python' version : 3.24.1.11916 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'ruby' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'sonarscala' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'text' version : 2.0.2.1090 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'vbnet' version : 8.51.0.59060 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'web' version : 3.7.1.3306 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'xml' version : 2.7.0.3820 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'config' version : 1.2.0.267 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'csharp' version : 8.51.0.59060 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'flex' version : 2.8.0.3166 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'go' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'iac' version : 1.11.0.2847 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'jacoco' version : 1.3.0.1538 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'java' version : 7.16.0.30901 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'javascript' version : 9.13.0.20537 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'kotlin' version : 2.12.0.1956 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'php' version : 3.27.1.9352 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'python' version : 3.24.1.11916 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'ruby' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'sonarscala' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'text' version : 2.0.2.1090 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'vbnet' version : 8.51.0.59060 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'web' version : 3.7.1.3306 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'xml' version : 2.7.0.3820 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'config' version : 1.2.0.267 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'csharp' version : 8.51.0.59060 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'flex' version : 2.8.0.3166 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'go' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'iac' version : 1.11.0.2847 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'jacoco' version : 1.3.0.1538 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'java' version : 7.16.0.30901 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'javascript' version : 9.13.0.20537 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'kotlin' version : 2.12.0.1956 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'php' version : 3.27.1.9352 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'python' version : 3.24.1.11916 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'ruby' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'sonarscala' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'text' version : 2.0.2.1090 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'vbnet' version : 8.51.0.59060 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'web' version : 3.7.1.3306 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'xml' version : 2.7.0.3820 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'config' version : 1.2.0.267 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'csharp' version : 8.51.0.59060 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'flex' version : 2.8.0.3166 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'go' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'iac' version : 1.11.0.2847 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'jacoco' version : 1.3.0.1538 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'java' version : 7.16.0.30901 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'javascript' version : 9.13.0.20537 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'kotlin' version : 2.12.0.1956 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'php' version : 3.27.1.9352 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'python' version : 3.24.1.11916 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'ruby' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'sonarscala' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'text' version : 2.0.2.1090 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'vbnet' version : 8.51.0.59060 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'web' version : 3.7.1.3306 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'xml' version : 2.7.0.3820 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'config' version : 1.2.0.267 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'csharp' version : 8.51.0.59060 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'flex' version : 2.8.0.3166 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'go' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'iac' version : 1.11.0.2847 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'jacoco' version : 1.3.0.1538 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'java' version : 7.16.0.30901 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'javascript' version : 9.13.0.20537 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'kotlin' version : 2.12.0.1956 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'php' version : 3.27.1.9352 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'python' version : 3.24.1.11916 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'ruby' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'sonarscala' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'text' version : 2.0.2.1090 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'vbnet' version : 8.51.0.59060 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'web' version : 3.7.1.3306 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'xml' version : 2.7.0.3820 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'config' version : 1.2.0.267 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'csharp' version : 8.51.0.59060 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'flex' version : 2.8.0.3166 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'go' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'iac' version : 1.11.0.2847 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'jacoco' version : 1.3.0.1538 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'java' version : 7.16.0.30901 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'javascript' version : 9.13.0.20537 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'kotlin' version : 2.12.0.1956 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'php' version : 3.27.1.9352 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'python' version : 3.24.1.11916 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'ruby' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'sonarscala' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'text' version : 2.0.2.1090 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'vbnet' version : 8.51.0.59060 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'web' version : 3.7.1.3306 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'xml' version : 2.7.0.3820 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'config' version : 1.2.0.267 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'csharp' version : 8.51.0.59060 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'flex' version : 2.8.0.3166 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'go' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'iac' version : 1.11.0.2847 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'jacoco' version : 1.3.0.1538 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'java' version : 7.16.0.30901 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'javascript' version : 9.13.0.20537 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'kotlin' version : 2.12.0.1956 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'php' version : 3.27.1.9352 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'python' version : 3.24.1.11916 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'ruby' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'sonarscala' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'text' version : 2.0.2.1090 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'vbnet' version : 8.51.0.59060 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'web' version : 3.7.1.3306 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'xml' version : 2.7.0.3820 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'config' version : 1.2.0.267 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'csharp' version : 8.51.0.59060 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'flex' version : 2.8.0.3166 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'go' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'iac' version : 1.11.0.2847 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'jacoco' version : 1.3.0.1538 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'java' version : 7.16.0.30901 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'javascript' version : 9.13.0.20537 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'kotlin' version : 2.12.0.1956 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'php' version : 3.27.1.9352 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'python' version : 3.24.1.11916 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'ruby' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'sonarscala' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'text' version : 2.0.2.1090 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'vbnet' version : 8.51.0.59060 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'web' version : 3.7.1.3306 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'xml' version : 2.7.0.3820 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'config' version : 1.2.0.267 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'csharp' version : 8.51.0.59060 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'flex' version : 2.8.0.3166 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'go' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'iac' version : 1.11.0.2847 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'jacoco' version : 1.3.0.1538 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'java' version : 7.16.0.30901 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'javascript' version : 9.13.0.20537 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'kotlin' version : 2.12.0.1956 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'php' version : 3.27.1.9352 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'python' version : 3.24.1.11916 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'ruby' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'sonarscala' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'text' version : 2.0.2.1090 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'vbnet' version : 8.51.0.59060 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'web' version : 3.7.1.3306 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'xml' version : 2.7.0.3820 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'config' version : 1.2.0.267 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'csharp' version : 8.51.0.59060 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'flex' version : 2.8.0.3166 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'go' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'iac' version : 1.11.0.2847 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'jacoco' version : 1.3.0.1538 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'java' version : 7.16.0.30901 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'javascript' version : 9.13.0.20537 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'kotlin' version : 2.12.0.1956 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'php' version : 3.27.1.9352 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'python' version : 3.24.1.11916 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'ruby' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'sonarscala' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'text' version : 2.0.2.1090 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'vbnet' version : 8.51.0.59060 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'web' version : 3.7.1.3306 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'xml' version : 2.7.0.3820 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'config' version : 1.2.0.267 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'csharp' version : 8.51.0.59060 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'flex' version : 2.8.0.3166 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'go' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'iac' version : 1.11.0.2847 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'jacoco' version : 1.3.0.1538 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'java' version : 7.16.0.30901 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'javascript' version : 9.13.0.20537 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'kotlin' version : 2.12.0.1956 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'php' version : 3.27.1.9352 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'python' version : 3.24.1.11916 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'ruby' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'sonarscala' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'text' version : 2.0.2.1090 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'vbnet' version : 8.51.0.59060 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'web' version : 3.7.1.3306 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'xml' version : 2.7.0.3820 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'config' version : 1.2.0.267 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'csharp' version : 8.51.0.59060 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'flex' version : 2.8.0.3166 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'go' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'iac' version : 1.11.0.2847 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'jacoco' version : 1.3.0.1538 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'java' version : 7.16.0.30901 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'javascript' version : 9.13.0.20537 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'kotlin' version : 2.12.0.1956 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'php' version : 3.27.1.9352 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'python' version : 3.24.1.11916 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'ruby' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'sonarscala' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'text' version : 2.0.2.1090 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'vbnet' version : 8.51.0.59060 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'web' version : 3.7.1.3306 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'xml' version : 2.7.0.3820 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'config' version : 1.2.0.267 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'csharp' version : 8.51.0.59060 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'flex' version : 2.8.0.3166 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'go' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'iac' version : 1.11.0.2847 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'jacoco' version : 1.3.0.1538 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'java' version : 7.16.0.30901 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'javascript' version : 9.13.0.20537 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'kotlin' version : 2.12.0.1956 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'php' version : 3.27.1.9352 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'python' version : 3.24.1.11916 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'ruby' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'sonarscala' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'text' version : 2.0.2.1090 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'vbnet' version : 8.51.0.59060 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'web' version : 3.7.1.3306 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'xml' version : 2.7.0.3820 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'config' version : 1.2.0.267 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'csharp' version : 8.51.0.59060 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'flex' version : 2.8.0.3166 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'go' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'iac' version : 1.11.0.2847 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'jacoco' version : 1.3.0.1538 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'java' version : 7.16.0.30901 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'javascript' version : 9.13.0.20537 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'kotlin' version : 2.12.0.1956 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'php' version : 3.27.1.9352 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'python' version : 3.24.1.11916 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'ruby' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'sonarscala' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'text' version : 2.0.2.1090 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'vbnet' version : 8.51.0.59060 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'web' version : 3.7.1.3306 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'xml' version : 2.7.0.3820 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'config' version : 1.2.0.267 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'csharp' version : 8.51.0.59060 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'flex' version : 2.8.0.3166 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'go' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'iac' version : 1.11.0.2847 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'jacoco' version : 1.3.0.1538 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'java' version : 7.16.0.30901 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'javascript' version : 9.13.0.20537 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'kotlin' version : 2.12.0.1956 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'php' version : 3.27.1.9352 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'python' version : 3.24.1.11916 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'ruby' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'sonarscala' version : 1.11.0.3905 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'text' version : 2.0.2.1090 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'vbnet' version : 8.51.0.59060 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'web' version : 3.7.1.3306 has not been found on the update center.
+2026.04.06 15:06:18 INFO  web[AZ1cfXtxpOpcWHUfAAEU][o.s.u.c.UpdateCenter] The plugin 'xml' version : 2.7.0.3820 has not been found on the update center.
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEX][o.s.u.c.UpdateCenterDeserializer] ltsVersion seems wrong as it is not listed in SonarQube versions
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEX][o.s.u.c.UpdateCenterDeserializer] authoidc.3.0.0.sqVersions should be defined
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEX][o.s.u.c.UpdateCenterDeserializer] Plugin OpenID Connect Authentication for SonarQube version 3.0.0 should declare compatible SQ versions
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEX][o.s.u.c.UpdateCenterDeserializer] communitybsl.1.18.0.sqVersions should be defined
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEX][o.s.u.c.UpdateCenterDeserializer] Plugin 1C (BSL) Community Plugin version 1.18.0 should declare compatible SQ versions
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEX][o.s.u.c.UpdateCenterDeserializer] creedengojava.2.1.2.sqVersions should be defined
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEX][o.s.u.c.UpdateCenterDeserializer] Plugin creedengo - Java language version 2.1.2 should declare compatible SQ versions
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEX][o.s.u.c.UpdateCenterDeserializer] creedengojavascript.3.0.0.sqVersions should be defined
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEX][o.s.u.c.UpdateCenterDeserializer] Plugin Creedengo JavaScript plugin version 3.0.0 should declare compatible SQ versions
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEX][o.s.u.c.UpdateCenterDeserializer] creedengophp.2.1.0.sqVersions should be defined
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEX][o.s.u.c.UpdateCenterDeserializer] Plugin creedengo - PHP language version 2.1.0 should declare compatible SQ versions
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEX][o.s.u.c.UpdateCenterDeserializer] creedengopython.2.3.0.sqVersions should be defined
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEX][o.s.u.c.UpdateCenterDeserializer] Plugin creedengo - Python language version 2.3.0 should declare compatible SQ versions
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEX][o.s.u.c.UpdateCenterDeserializer] dependencycheck.6.0.0.sqVersions should be defined
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEX][o.s.u.c.UpdateCenterDeserializer] Plugin Dependency-Check version 6.0.0 should declare compatible SQ versions
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEX][o.s.u.c.UpdateCenterDeserializer] findbugs.4.6.0.sqVersions should be defined
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEX][o.s.u.c.UpdateCenterDeserializer] Plugin Findbugs version 4.6.0 should declare compatible SQ versions
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEX][o.s.u.c.UpdateCenterDeserializer] jqassistant.3.0.1.sqVersions should be defined
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEX][o.s.u.c.UpdateCenterDeserializer] Plugin jQAssistant version 3.0.1 should declare compatible SQ versions
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEX][o.s.u.c.UpdateCenterDeserializer] l10nja.25.5.sqVersions should be defined
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEX][o.s.u.c.UpdateCenterDeserializer] Plugin Japanese Pack version 25.5 should declare compatible SQ versions
+2026.04.06 15:06:18 WARN  web[AZ1cfXtxpOpcWHUfAAEX][o.s.u.c.UpdateCenterDeserializer] The plugin l10nja is not compatible with any public SQ versions.
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEX][o.s.u.c.UpdateCenterDeserializer] l10nru.25.1.sqVersions should be defined
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEX][o.s.u.c.UpdateCenterDeserializer] Plugin Russian Pack version 25.1 should declare compatible SQ versions
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEX][o.s.u.c.UpdateCenterDeserializer] l10nru.25.7.sqVersions should be defined
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEX][o.s.u.c.UpdateCenterDeserializer] Plugin Russian Pack version 25.7 should declare compatible SQ versions
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEX][o.s.u.c.UpdateCenterDeserializer] l10nzh.24.12.sqVersions should be defined
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEX][o.s.u.c.UpdateCenterDeserializer] Plugin Chinese Pack version 24.12 should declare compatible SQ versions
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEX][o.s.u.c.UpdateCenterDeserializer] l10nzh.25.1.sqVersions should be defined
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEX][o.s.u.c.UpdateCenterDeserializer] Plugin Chinese Pack version 25.1 should declare compatible SQ versions
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEX][o.s.u.c.UpdateCenterDeserializer] l10nzh.25.2.sqVersions should be defined
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEX][o.s.u.c.UpdateCenterDeserializer] Plugin Chinese Pack version 25.2 should declare compatible SQ versions
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEX][o.s.u.c.UpdateCenterDeserializer] l10nzh.25.3.sqVersions should be defined
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEX][o.s.u.c.UpdateCenterDeserializer] Plugin Chinese Pack version 25.3 should declare compatible SQ versions
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEX][o.s.u.c.UpdateCenterDeserializer] l10nzh.25.4.sqVersions should be defined
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEX][o.s.u.c.UpdateCenterDeserializer] Plugin Chinese Pack version 25.4 should declare compatible SQ versions
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEX][o.s.u.c.UpdateCenterDeserializer] l10nzh.25.5.sqVersions should be defined
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEX][o.s.u.c.UpdateCenterDeserializer] Plugin Chinese Pack version 25.5 should declare compatible SQ versions
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEX][o.s.u.c.UpdateCenterDeserializer] l10nzh.25.6.sqVersions should be defined
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEX][o.s.u.c.UpdateCenterDeserializer] Plugin Chinese Pack version 25.6 should declare compatible SQ versions
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEX][o.s.u.c.UpdateCenterDeserializer] l10nzh.25.7.sqVersions should be defined
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEX][o.s.u.c.UpdateCenterDeserializer] Plugin Chinese Pack version 25.7 should declare compatible SQ versions
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEX][o.s.u.c.UpdateCenterDeserializer] l10nzh.25.8.sqVersions should be defined
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEX][o.s.u.c.UpdateCenterDeserializer] Plugin Chinese Pack version 25.8 should declare compatible SQ versions
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEX][o.s.u.c.UpdateCenterDeserializer] l10nzh.25.9.sqVersions should be defined
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEX][o.s.u.c.UpdateCenterDeserializer] Plugin Chinese Pack version 25.9 should declare compatible SQ versions
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEX][o.s.u.c.UpdateCenterDeserializer] l10nzh.25.10.sqVersions should be defined
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEX][o.s.u.c.UpdateCenterDeserializer] Plugin Chinese Pack version 25.10 should declare compatible SQ versions
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEX][o.s.u.c.UpdateCenterDeserializer] l10nzh.25.11.sqVersions should be defined
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEX][o.s.u.c.UpdateCenterDeserializer] Plugin Chinese Pack version 25.11 should declare compatible SQ versions
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEX][o.s.u.c.UpdateCenterDeserializer] l10nzh.25.12.sqVersions should be defined
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEX][o.s.u.c.UpdateCenterDeserializer] Plugin Chinese Pack version 25.12 should declare compatible SQ versions
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEX][o.s.u.c.UpdateCenterDeserializer] l10nzh.26.1.sqVersions should be defined
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEX][o.s.u.c.UpdateCenterDeserializer] Plugin Chinese Pack version 26.1 should declare compatible SQ versions
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEX][o.s.u.c.UpdateCenterDeserializer] l10nzh.26.2.sqVersions should be defined
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEX][o.s.u.c.UpdateCenterDeserializer] Plugin Chinese Pack version 26.2 should declare compatible SQ versions
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEX][o.s.u.c.UpdateCenterDeserializer] l10nzh.26.3.sqVersions should be defined
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEX][o.s.u.c.UpdateCenterDeserializer] Plugin Chinese Pack version 26.3 should declare compatible SQ versions
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEX][o.s.u.c.UpdateCenterDeserializer] l10nzhtw.1.2.sqVersions should be defined
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEX][o.s.u.c.UpdateCenterDeserializer] Plugin TraditionalChinese Pack version 1.2 should declare compatible SQ versions
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEX][o.s.u.c.UpdateCenterDeserializer] l10nzhtw.1.3.sqVersions should be defined
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEX][o.s.u.c.UpdateCenterDeserializer] Plugin TraditionalChinese Pack version 1.3 should declare compatible SQ versions
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEX][o.s.u.c.UpdateCenterDeserializer] l10nzhtw.1.4.sqVersions should be defined
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEX][o.s.u.c.UpdateCenterDeserializer] Plugin TraditionalChinese Pack version 1.4 should declare compatible SQ versions
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEX][o.s.u.c.UpdateCenterDeserializer] l10nzhtw.1.5.sqVersions should be defined
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEX][o.s.u.c.UpdateCenterDeserializer] Plugin TraditionalChinese Pack version 1.5 should declare compatible SQ versions
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEX][o.s.u.c.UpdateCenterDeserializer] l10nzhtw.1.6.sqVersions should be defined
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEX][o.s.u.c.UpdateCenterDeserializer] Plugin TraditionalChinese Pack version 1.6 should declare compatible SQ versions
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEX][o.s.u.c.UpdateCenterDeserializer] l10nzhtw.1.7.sqVersions should be defined
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEX][o.s.u.c.UpdateCenterDeserializer] Plugin TraditionalChinese Pack version 1.7 should declare compatible SQ versions
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEX][o.s.u.c.UpdateCenterDeserializer] l10nzhtw.1.8.sqVersions should be defined
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEX][o.s.u.c.UpdateCenterDeserializer] Plugin TraditionalChinese Pack version 1.8 should declare compatible SQ versions
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEX][o.s.u.c.UpdateCenterDeserializer] l10nzhtw.1.9.sqVersions should be defined
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEX][o.s.u.c.UpdateCenterDeserializer] Plugin TraditionalChinese Pack version 1.9 should declare compatible SQ versions
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEX][o.s.u.c.UpdateCenterDeserializer] l10nzhtw.26.2.sqVersions should be defined
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEX][o.s.u.c.UpdateCenterDeserializer] Plugin TraditionalChinese Pack version 26.2 should declare compatible SQ versions
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEX][o.s.u.c.UpdateCenterDeserializer] l10nzhtw.26.3.sqVersions should be defined
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEX][o.s.u.c.UpdateCenterDeserializer] Plugin TraditionalChinese Pack version 26.3 should declare compatible SQ versions
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEX][o.s.u.c.UpdateCenterDeserializer] magento2php.1.3.0.sqVersions should be defined
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEX][o.s.u.c.UpdateCenterDeserializer] Plugin PHP Custom Rules for Magento 2 CMS version 1.3.0 should declare compatible SQ versions
+2026.04.06 15:06:18 WARN  web[AZ1cfXtxpOpcWHUfAAEX][o.s.u.c.UpdateCenterDeserializer] The plugin magento2php is not compatible with any public SQ versions.
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEX][o.s.u.c.UpdateCenterDeserializer] openedge.2.30.0.sqVersions should be defined
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEX][o.s.u.c.UpdateCenterDeserializer] Plugin OpenEdge version 2.30.0 should declare compatible SQ versions
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEX][o.s.u.c.UpdateCenterDeserializer] scmtfvc.2.5.0.sqVersions should be defined
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEX][o.s.u.c.UpdateCenterDeserializer] Plugin TFVC version 2.5.0 should declare compatible SQ versions
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEX][o.s.u.c.UpdateCenterDeserializer] wolfralyze.1.1.4.sqVersions should be defined
+2026.04.06 15:06:18 ERROR web[AZ1cfXtxpOpcWHUfAAEX][o.s.u.c.UpdateCenterDeserializer] Plugin Mathematica version 1.1.4 should declare compatible SQ versions
+2026.04.06 15:06:18 WARN  web[AZ1cfXtxpOpcWHUfAAEX][o.s.u.c.UpdateCenterDeserializer] The plugin wolfralyze is not compatible with any public SQ versions.
